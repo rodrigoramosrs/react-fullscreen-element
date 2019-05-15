@@ -2,7 +2,7 @@
 
 [![NuGet version](https://badge.fury.io/js/react-fullscreen-element.svg)](https://www.npmjs.com/package/react-fullscreen-element)
 
-![](https://media.giphy.com/media/RKBZK1S0cCQXYct2Mg/giphy.gif)
+![](https://media.giphy.com/media/dWaH8ytMCCKzb2wdpH/giphy.gif)
 
 # Installation
 
