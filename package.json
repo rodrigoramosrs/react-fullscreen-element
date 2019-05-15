@@ -1,7 +1,7 @@
 {
   "name": "react-fullscreen-element",
-  "version": "1.0.1",
-  "description": "Fullscreen's any element",
+  "version": "1.0.2",
+  "description": "Fullscreen any dom element with ReactJS",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
