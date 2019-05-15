@@ -91,10 +91,11 @@ const ReactFullScreenElement = props => {
     </div>
   );
 };
-Fullscreen.propTypes = {
+
+ReactFullScreenElement.propTypes = {
   children: PropTypes.any,
   fullScreen: PropTypes.bool,
   allowScrollbar: PropTypes.bool
 };
 
-export default ReactFullscreenElement;
+export default ReactFullScreenElement;
