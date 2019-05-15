@@ -1,4 +1,4 @@
-# Fullscreen any dom element ReactJS
+# Fullscreen any dom element with ReactJS
 
 [![NuGet version](https://badge.fury.io/js/react-fullscreen-element.svg)](https://www.npmjs.com/package/react-fullscreen-element)
 
