@@ -22,11 +22,12 @@ class Demo extends React.Component {
     render(
         return(
             <div>
-                <input type="button" value="Click here to toggle fullscreen" onClick={() => this.setState({fullscreen: !this.state.fullscreen})} />
+
                 <ReactFullScreenElement
                     fullScreen={this.state.fullscreen}
                     allowScrollbar={true}
                 >
+                    <input type="button" value="Click here to toggle fullscreen" onClick={() => this.setState({fullscreen: !this.state.fullscreen})} />
                     your code goes here
                 </ReactFullScreenElement>
             </div>
